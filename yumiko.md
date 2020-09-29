@@ -1,4 +1,4 @@
-fav color: blue
+fav color: blue and red
 
 modified 4:05pm 9/28
 added 3:19pm 9/28
