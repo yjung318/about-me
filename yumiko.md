@@ -1,4 +1,4 @@
-fav color: purple
+fav color: blue
 
 modified 4:05pm 9/28
 added 3:19pm 9/28
